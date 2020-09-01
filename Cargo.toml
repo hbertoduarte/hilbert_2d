@@ -1,0 +1,21 @@
+[package]
+name = "hilbert_2d"
+version = "1.0.0"
+authors = ["Humberto Duarte <hbertoduarte@gmail.com>"]
+edition = "2018"
+description = "Functions for mapping between 1D and 2D space using the Hilbert curve, and its approximations."
+readme = "README.md"
+repository = "https://github.com/hbertoduarte/hilbert_2d/"
+license = "MIT OR Apache-2.0"
+keywords = ["hilbert", "curve", "fractal", "mathematics"]
+categories = ["mathematics"]
+
+[dependencies]
+
+[dev-dependencies]
+# Tests
+assert_approx_eq = "1.1.0"
+version-sync = "0.9.1"
+# Examples
+plotlib = "0.5.1"
+palette = "0.5.0"
