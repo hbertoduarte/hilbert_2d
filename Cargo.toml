@@ -1,6 +1,6 @@
 [package]
 name = "hilbert_2d"
-version = "1.0.0"
+version = "1.1.0"
 authors = ["Humberto Duarte <hbertoduarte@gmail.com>"]
 edition = "2018"
 description = "Functions for mapping between 1D and 2D space using the Hilbert curve, and its approximations."

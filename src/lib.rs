@@ -30,7 +30,7 @@
 //! let (x2, y2) = h2xy_continuous_f64(1.0, Variant::Liu1); // (~0.5, ~0.5)
 //! ```
 
-#![doc(html_root_url = "https://docs.rs/hilbert_2d/1.0.0")]
+#![doc(html_root_url = "https://docs.rs/hilbert_2d/1.1.0")]
 
 #[macro_use]
 mod hilbert_macros;

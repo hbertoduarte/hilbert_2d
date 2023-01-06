@@ -19,7 +19,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-hilbert_2d = "1.0.0"
+hilbert_2d = "1.1.0"
 ```
 
 When working with images and matrices, use the `h2xy_discrete` and `xy2h_discrete` functions:
